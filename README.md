@@ -61,8 +61,8 @@ I craft **scalable digital solutions** that bridge **cloud, enterprise apps, and
 ---
 
 ## 📫 Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/giovanni)  
-- Email: giovanni@email.com  
+- [LinkedIn](https://www.linkedin.com/in/giovannimastellone/)
+- [Website](https://giovannimastellone.it)
 
 ---
 
