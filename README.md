@@ -47,8 +47,10 @@ I craft **scalable digital solutions** that bridge **cloud, enterprise apps, and
 
 ## 🌱 Certifications & Learning
 - Salesforce Certified: MC Mail Specialist, MC Developer, MC Admin, MC Consultant, B2C Commerce Developer  
-- Google/Coursera Project Management  
-- In progress: **B2C Commerce Architect**, **Azure Administrator**
+- Google/Coursera Project Management
+- Ninja Academy Marketing Growth Master
+- Ninja Academy SEO/SEM Master
+- In progress: **Salesforce B2C Commerce Architect**, **Azure Administrator**
 
 ---
 
